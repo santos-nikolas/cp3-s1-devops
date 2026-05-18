@@ -1,0 +1,12 @@
+{
+  "name": "atividade-cicd-azure",
+  "version": "1.0.0",
+  "description": "Página HTML para atividade de CI/CD com Azure App Service",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
